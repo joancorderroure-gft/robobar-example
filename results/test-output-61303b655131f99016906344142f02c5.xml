@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="7.0190" tests="6" failures="4">
+  <testsuite name="Root Suite" timestamp="2022-02-17T09:39:14" tests="0" file="cypress/integration/Robobar.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Robobar cart" timestamp="2022-02-17T09:39:14" tests="6" time="7.0190" failures="4">
+    <testcase name="Robobar cart user add one cola" time="4.4720" classname="user add one cola">
+    </testcase>
+    <testcase name="Robobar cart user adds one beer" time="2.5470" classname="user adds one beer">
+    </testcase>
+    <testcase name="Robobar cart user buys several colas (example #1)" time="0.0000" classname="user buys several colas (example #1)">
+      <failure message="i is not defined" type="ReferenceError"><![CDATA[ReferenceError: i is not defined
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:59:10)
+    at Context.resolveAndRunStepDefinition (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:10481:29)
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:9802:35)]]></failure>
+    </testcase>
+    <testcase name="Robobar cart user buys several colas (example #2)" time="0.0000" classname="user buys several colas (example #2)">
+      <failure message="i is not defined" type="ReferenceError"><![CDATA[ReferenceError: i is not defined
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:59:10)
+    at Context.resolveAndRunStepDefinition (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:10481:29)
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:9802:35)]]></failure>
+    </testcase>
+    <testcase name="Robobar cart user buys several colas (example #3)" time="0.0000" classname="user buys several colas (example #3)">
+      <failure message="i is not defined" type="ReferenceError"><![CDATA[ReferenceError: i is not defined
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:59:10)
+    at Context.resolveAndRunStepDefinition (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:10481:29)
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:9802:35)]]></failure>
+    </testcase>
+    <testcase name="Robobar cart user buys several colas (example #4)" time="0.0000" classname="user buys several colas (example #4)">
+      <failure message="i is not defined" type="ReferenceError"><![CDATA[ReferenceError: i is not defined
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:59:10)
+    at Context.resolveAndRunStepDefinition (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:10481:29)
+    at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/Robobar.feature:9802:35)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

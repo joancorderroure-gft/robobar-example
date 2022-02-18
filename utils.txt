@@ -1,0 +1,6 @@
+ yarn add --dev cypress-cucumber-preprocessor
+   21  yarn install
+   22  yarn cy:ci
+   23  trivy fs .
+   24  history
+   

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="33.5430" tests="11" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-02-17T09:37:48" tests="0" file="cypress/integration/hola.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Hello Cypress" timestamp="2022-02-17T09:37:48" tests="8" time="21.9050" failures="0">
+    <testcase name="Hello Cypress Says hello" time="0.1700" classname="Says hello">
+    </testcase>
+    <testcase name="Hello Cypress Order a cola" time="5.1850" classname="Order a cola">
+    </testcase>
+    <testcase name="Hello Cypress Order two colas" time="3.0920" classname="Order two colas">
+    </testcase>
+    <testcase name="Hello Cypress Order a beer" time="2.9670" classname="Order a beer">
+    </testcase>
+    <testcase name="Hello Cypress Order two beers" time="2.6450" classname="Order two beers">
+    </testcase>
+    <testcase name="Hello Cypress Order a wine" time="2.4130" classname="Order a wine">
+    </testcase>
+    <testcase name="Hello Cypress Order two wines" time="3.0100" classname="Order two wines">
+    </testcase>
+    <testcase name="Hello Cypress Order one cola, one beer, one wine" time="2.4230" classname="Order one cola, one beer, one wine">
+    </testcase>
+  </testsuite>
+  <testsuite name="AgesSuite tests" timestamp="2022-02-17T09:38:14" tests="3" time="11.6380" failures="0">
+    <testcase name="AgesSuite tests Cola order full" time="3.7420" classname="Cola order full">
+    </testcase>
+    <testcase name="AgesSuite tests Underage beer" time="3.0680" classname="Underage beer">
+    </testcase>
+    <testcase name="AgesSuite tests Overage beer" time="4.8280" classname="Overage beer">
+    </testcase>
+  </testsuite>
+</testsuites>
